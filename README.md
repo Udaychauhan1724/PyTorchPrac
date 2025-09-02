@@ -1,2 +1,2 @@
 # PyTorchPrac
-PyTorch practice 
+PyTorch practice - Campux's PyTorch YT playlist
